@@ -20,7 +20,6 @@
   Building FastAPI backends, ML/DL models, OCR automation, RAG systems & AI agents.
 
 - 🎓 **B.Sc in CSE**, Metropolitan University (2021–2025)  
-  **CGPA:** 3.67/4.00  
   **Thesis:** Harmonization of Heart Disease Dataset for Accurate Diagnosis (ML + Feature Engineering)
 
 - 👯 **Collaborating on:**  
